@@ -1,4 +1,3 @@
-from cgitb import text
 import hashlib
 
 msg = input("Saisir le message à hasher : ")
